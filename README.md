@@ -5,17 +5,17 @@ This repo is meant to have fun and experiment with data structures and algorithm
 ###List of Completed Data Structures
 
 ###List of In Progress Data Structures
-> Binary Heap
+* Binary Heap
 
 ###List of Desired Data Structures
-> Circular Buffer
-> Doubly Linked List
-> Hash Table (Map)
-> Trie
-> Binomial Heap
-> Fibonacci Heap
-> DAG
-> Adjacency List & Matrix
+* Circular Buffer
+* Doubly Linked List
+* Hash Table (Map)
+* Trie
+* Binomial Heap
+* Fibonacci Heap
+* DAG
+* Adjacency List & Matrix
 
 ###List of Desired Algorithms
 
@@ -23,17 +23,17 @@ This repo is meant to have fun and experiment with data structures and algorithm
 :)
 
 ##Sorting
-> Radix
-> Merge
-> Quick
-> Heap
+* Radix
+* Merge
+* Quick
+* Heap
 
 ##Search
-> Binary Search
-> DFS
-> BFS
-> Shortest Path by Djikstra
+* Binary Search
+* DFS
+* BFS
+* Shortest Path by Djikstra
 
 ##Dynamic Programming
-> Fibonacci
-> Knapsack
+* Fibonacci
+* Knapsack
